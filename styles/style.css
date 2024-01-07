@@ -81,7 +81,106 @@
     line-height: normal;
     padding-bottom: 50px;
 }
-#off img{
+
+#off img {
     max-width: 90%;
     max-width: 90%;
+
+}
+
+/* party */
+.midnight {
+    max-width: 82.5%;
+    margin: 120px auto;
+    background-image: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 16px;
+}
+
+.party-and-image {
+    display: flex;
+    padding: 70px 130px;
+}
+
+#party {
+    text-align: left;
+}
+
+#party h3 {
+    color: #FFF;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    text-align: left;
+    padding-bottom: 24px;
+}
+
+#party p {
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    padding-bottom: 48px;
+}
+
+#party button {
+    color: #FFF;
+    text-align: left;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 32px;
+    border-radius: 8px;
+    background: #F00;
+    padding: 15px 20px;
+
+}
+
+/* footer style */
+footer {
+    background: #070211;
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+    gap: 400px;
+    border-bottom: 1px solid white;
+    border-color: rgba(255, 255, 255, 0.15);
+}
+.first h5{
+    /* max-width: 23%; */
+    margin-left: 100px;
+}
+.first p{
+    margin-right: 100px;
+}
+
+.first h5, .first p, .third h5 {
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    padding: 70px 130px;
+    
+}
+.second{
+    display: flex;
+    justify-content: center;
+    gap:24px;
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+.third{
+    display: flex;
+    justify-content: space-between;
+    padding: 70px 110px;
+    border-top: 1px solid white;
+    border-color: rgba(255, 255, 255, 0.15);
 }
