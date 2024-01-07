@@ -1,0 +1,87 @@
+/* common style */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.merri {
+    font-family: 'Merriweather', serif;
+}
+
+.inter {
+    font-family: 'Inter', sans-serif;
+}
+
+/* banner style */
+#banner {
+    max-width: 82.5%;
+    margin: 50px auto 120px;
+    background-image: url('../resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    border-radius: 16px;
+}
+
+.HNY {
+
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 170px 530px 15px;
+}
+
+.HNY-text {
+
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    padding: 0 345px 177px
+}
+
+/* off style */
+#off {
+    max-width: 50%;
+    margin: 0px auto;
+    text-align: center;
+}
+
+#off h3 {
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 45px;
+}
+
+#off h5 {
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-bottom: 15px;
+}
+
+#off h4 {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 50px;
+}
+#off img{
+    max-width: 90%;
+    max-width: 90%;
+}
