@@ -21,12 +21,11 @@
     background-size: cover;
     background-position: center;
     border-radius: 16px;
+    text-align: center;
 }
 
 .HNY {
-
     color: #FFF;
-    text-align: center;
     font-size: 32px;
     font-style: normal;
     font-weight: 400;
@@ -35,9 +34,7 @@
 }
 
 .HNY-text {
-
     color: #FFF;
-    text-align: center;
     font-size: 72px;
     font-style: normal;
     font-weight: 900;
