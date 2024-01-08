@@ -96,6 +96,7 @@
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 16px;
+    
 }
 
 .party-and-image {
@@ -104,6 +105,7 @@
     padding: 4.375% 8.125%;
     justify-content: center;
     gap: 100px;
+    
 }
 
 #party h3 {
@@ -268,7 +270,29 @@
     line-height: 32px;
     /* 160% */
 }
+/* discount */
+#discount{
+    margin: 7.5% 8.75% 0%;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+}
+.img-pic{
+    padding-top: 70px;
 
+}
+/* orange */
+
+#orange{
+    margin: -15% 8.75% 7.5%;
+    border-radius: 16px;
+    /* justify-content: center; */
+    background-image: url('../resources/Rectangle\ 2.png');
+    height: 230px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* portfolio */
 #portfolio {
     margin: 7.5% 8.75%;
     border-radius: 16px;
