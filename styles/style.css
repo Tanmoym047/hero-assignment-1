@@ -396,10 +396,13 @@
     background: #FFF;
     padding: 25px 250px 25px 30px;
     margin-bottom: 80px;
+    border: 0;
+    outline: 0;
 }
 
 #subscribe button {
-    border-radius: 0px 50px 50px 0px;
+    margin: -80px;
+    border-radius: 50px 50px 50px 50px;
     background: #F00;
     padding: 20px 40px;
     color: #FFF;
