@@ -411,7 +411,7 @@ footer {
 .first {
     display: flex;
     justify-content: space-between;
-    gap: 30px;
+    gap: 20px;
     border-bottom: 1px solid white;
     border-color: rgba(255, 255, 255, 0.15);
 }
@@ -419,11 +419,11 @@ footer {
 .first h5 {
     /* max-width: 23%; */
     margin-left: 100px;
-    width: 400px;
+    width: 350px;
 }
 
 .first p {
-    margin-right: 100px;
+    margin-right: 90px;
 }
 
 .first h5,
