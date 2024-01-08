@@ -92,12 +92,12 @@
 .midnight {
     margin: 7.5% 8.75%;
 
-    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('../resources/Vectorrr.png');
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/Vectorrr.png');
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 16px;
     background-size: cover;
-    
+
 }
 
 .party-and-image {
@@ -106,7 +106,7 @@
     padding: 4.375% 8.125%;
     justify-content: center;
     gap: 100px;
-    
+
 }
 
 #party h3 {
@@ -251,6 +251,7 @@
     font-style: normal;
     font-weight: 500;
     line-height: normal;
+    margin-bottom: 16px;
 }
 
 #sale h3 {
@@ -271,20 +272,23 @@
     line-height: 32px;
     /* 160% */
 }
+
 /* discount */
-#discount{
+#discount {
     margin: 7.5% 8.75% 0%;
     border-radius: 16px;
     display: flex;
     justify-content: center;
 }
-.img-pic{
+
+.img-pic {
     padding-top: 70px;
 
 }
+
 /* orange */
 
-#orange{
+#orange {
     margin: -15% 8.75% 7.5%;
     border-radius: 16px;
     /* justify-content: center; */
@@ -293,6 +297,7 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 /* portfolio */
 #portfolio {
     margin: 7.5% 8.75%;
@@ -409,7 +414,7 @@ footer {
 .first {
     display: flex;
     justify-content: space-between;
-    gap: 400px;
+    gap: 30px;
     border-bottom: 1px solid white;
     border-color: rgba(255, 255, 255, 0.15);
 }
@@ -417,6 +422,7 @@ footer {
 .first h5 {
     /* max-width: 23%; */
     margin-left: 100px;
+    width: 400px;
 }
 
 .first p {
