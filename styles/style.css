@@ -280,7 +280,15 @@
 
 .img-pic {
     padding-top: 70px;
+    position: relative;
+    right: 50px;
+    ;
+}
 
+#dis {
+    position: relative;
+    left: 110px;
+    z-index: 1;
 }
 
 /* orange */
